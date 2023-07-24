@@ -1,5 +1,5 @@
 # **Narralabs Wiki**
-[www.narralabs.com] (www.narralabs.com)
+[www.narralabs.com](www.narralabs.com)
 
 ## **Home**
 
