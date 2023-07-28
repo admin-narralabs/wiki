@@ -66,6 +66,7 @@
 - [Leave Policy](url)
 - [Benefits](url)
 - [Events and Activities](url)
+- [HIRING](https://github.com/admin-narralabs/wiki/blob/main/hiring.md)
 
 ## **FAQ**
 
