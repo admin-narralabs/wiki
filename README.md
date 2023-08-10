@@ -64,8 +64,8 @@
 ## **HR & Admin**
 
 ### Hiring
-- [Hiring Process](https://github.com/admin-narralabs/wiki/blob/main/hiring.md)
-- [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email)
+- [Hiring Process](https://github.com/admin-narralabs/wiki/blob/main/hiring.md) [PROCESS]
+- [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email) [TEMPLATE]
 
 - ~~[Working Hours](url)~~
 - ~~[Leave Policy](url)~~
