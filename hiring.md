@@ -16,6 +16,7 @@
 4. HIRING MANAGER to send CANDIDATE a psych exam + coding test online and ask candidate to accomplish them for evaluation. [email]
 5. HIRING MANAGER sends CANDIDATES who pass psych exam and coding test get the first round of interview - This is a technical interview to see if everything checks out technically [call]
 6. CANDIDATE gets invited to the last round of interview regarding team and culture fit - Meet the founder etc… Salary offer and negotiation [call]
+8. Send [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email)
 7. Send WORK CONTRACT to CANDIDATE [email]
 8. Accept signed WORK CONTRACT and CANDIDATE officially becomes a TEAM MEMBER
 9. If all similar positions have been filled notify all other CANDIDATES that position has already been filled.
