@@ -16,7 +16,7 @@
 4. HIRING MANAGER to send CANDIDATE a psych exam + coding test online and ask candidate to accomplish them for evaluation. [email]
 5. HIRING MANAGER sends CANDIDATES who pass psych exam and coding test get the first round of interview - This is a technical interview to see if everything checks out technically [call]
 6. CANDIDATE gets invited to the last round of interview regarding team and culture fit - Meet the founder etc… Salary offer and negotiation [call]
-8. Send [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email) - This includes a request to fill up personal information for the [Narra Directory Form](https://docs.google.com/forms/d/1Ml_szgSofOMOZJSSvCsIyn_s0ycWlVWoGUUR0BTwEtQ/edit#response=ACYDBNiTYI7Y6kVUkG8u9aIQUaAC_YLCc0D1_tUX8osdOXlCnHS-uvV9GtYt4QY-5cL1QY0)
+8. Send [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email) - This includes a request to fill up personal information for the [Narra Directory Form](https://docs.google.com/forms/d/1Ml_szgSofOMOZJSSvCsIyn_s0ycWlVWoGUUR0BTwEtQ/edit#responses)
 9. Add new record to [Narra Directory](https://docs.google.com/spreadsheets/d/1HIwdZgyxRan_3DoMQWK86RAjPtESq0WmcdxCGlAiix8/edit?usp=sharing) with CANDIDATE info
 10. Edit WORK CONTRACT template with CANDIDATE details
 7. Send WORK CONTRACT to CANDIDATE [email]
