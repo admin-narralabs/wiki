@@ -18,8 +18,8 @@
 6. CANDIDATE gets invited to the last round of interview regarding team and culture fit - Meet the founder etc… Salary offer and negotiation [call]
 8. Send [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email) - This includes a request to fill up personal information for the [Narra Directory Form](https://docs.google.com/forms/d/1Ml_szgSofOMOZJSSvCsIyn_s0ycWlVWoGUUR0BTwEtQ/edit#responses)
 9. Add new record to [Narra Directory](https://docs.google.com/spreadsheets/d/1HIwdZgyxRan_3DoMQWK86RAjPtESq0WmcdxCGlAiix8/edit?usp=sharing) with CANDIDATE info
-10. Edit WORK CONTRACT template with CANDIDATE details
-7. Send WORK CONTRACT to CANDIDATE [email]
+10. Edit WORK CONTRACT template with CANDIDATE details use either [Developer Contract Template](https://docs.google.com/document/d/10UFy3AxVZu8vqv4gsfLrmcBVh7CDFuYd/edit) OR [Project Manager Contract Template](https://docs.google.com/document/d/15Oha4lyAZD4tDuEnVbTMOfJXeZxBU3Z9/edit)
+7. Send WORK CONTRACT to CANDIDATE using this [contract email template](https://github.com/admin-narralabs/wiki/blob/main/contract-email.md)
 8. Accept signed WORK CONTRACT and CANDIDATE officially becomes a TEAM MEMBER
 9. If all similar positions have been filled notify all other CANDIDATES that position has already been filled.
 10. Onboard new TEAM MEMBER [call/f2f]
