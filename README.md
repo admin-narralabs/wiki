@@ -63,11 +63,14 @@
 
 ## **HR & Admin**
 
+### Hiring
+- [Hiring Process](https://github.com/admin-narralabs/wiki/blob/main/hiring.md)
+- [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email)
+
 - ~~[Working Hours](url)~~
 - ~~[Leave Policy](url)~~
 - ~~[Benefits](url)~~
 - ~~[Events and Activities](url)~~
-- [Hiring](https://github.com/admin-narralabs/wiki/blob/main/hiring.md)
 
 ## **FAQ**
 
