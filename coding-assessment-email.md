@@ -6,10 +6,10 @@ This position requires at least three days of office work per week. The office i
 
 To move forward with your application, we would like to invite you to complete a take-home challenge. This challenge will allow us to better evaluate your skills and determine if you would be a good fit for our team.
 
-Attached to this email is our take-home challenge. Please follow the instructions carefully in the README file.
+Attached to this email is our take-home challenge. You have 7 days to submit your solution.
+Kindly follow the instructions carefully in the README file. 
 
-Best regards,
+Happy Coding!
 
 [Hiring Manager Name]
-
 [Company Name]
