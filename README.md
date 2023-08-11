@@ -67,7 +67,7 @@
 - [Hiring Process](https://github.com/admin-narralabs/wiki/blob/main/hiring.md) [PROCESS]
 - [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email) [TEMPLATE]
 - [Contract Email](https://github.com/admin-narralabs/wiki/blob/main/contract-email.md) [TEMPLATE]
-
+- [Coding Assessment Email](https://github.com/admin-narralabs/wiki/blob/main/coding-assessment-email.md) [TEMPLATE]
 - ~~[Working Hours](url)~~
 - ~~[Leave Policy](url)~~
 - ~~[Benefits](url)~~
