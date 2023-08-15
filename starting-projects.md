@@ -11,9 +11,12 @@ From the roadmap the team decides on a tech-stack to use and to plan the full sy
 ### 5. Establish working timeline
 From the roadmap items a working timeline will be established with allowances for any potential delays and blockers which will give the client a clear perspective of target deadlines and how we plan to accomplish them.
 ### 6. Project Management Board
-A board will be setup for tracking of tasks and to help project managers both communicate progress to clients and to delegate tasks to team members.
+A trello board will be setup for tracking of tasks and to help project managers both communicate progress to clients and to delegate tasks to team members. Ask all team mmebers to sign up on Trello using their company google account. Invite all team members to project board.
 ### 7. Password Management
-Create a vault for the project which will contain main accounts that will be used for the project, hosting, domain, tooling accounts, etc...
+Ops creates a project vault for this specific project in main bitwarden account. Create a vault for the project which will contain main accounts that will be used for the project, 
+ hosting, domain, tooling accounts, etc...
+
+Each team member signs up to Bitwarden using their company google account. Create a vault for the project which will contain main accounts that will be used for the project, it will contain personal access to project accounts such as trello, github, etc...
 ### 8. Secure Engineers' Contracts
 Make sure all engineers to be onboarded have complete contracts and are clear on the roles to be assigned to them considering the project architecture and roadmap.
 ### 9. Onboard Engineers
