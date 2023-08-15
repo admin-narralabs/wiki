@@ -10,7 +10,7 @@
 
 - ~~[Company Overview](url)~~
 - [Vision & Mission](https://github.com/admin-narralabs/wiki/blob/main/vision-and-mission.md)
-- ~~[Team](url)~~
+- [Team](https://github.com/admin-narralabs/wiki/blob/main/team.md)
 - ~~[Contact Information](url)~~
 
 ## **Products & Services**
