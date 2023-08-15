@@ -1,4 +1,4 @@
-## Project Management Process
+# Project Management Process
 
 ### Maintaining Project Board
 1. One card should be equivalent to one commit
