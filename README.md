@@ -38,7 +38,7 @@
 ## **Project Management**
 
 - [Starting Projects](https://github.com/admin-narralabs/wiki/blob/main/starting-projects.md)
-- ~~[Project Management Process](url)~~
+- [Project Management Process](https://github.com/admin-narralabs/wiki/blob/main/project-management-process.md)
 - ~~[Task Assignment & Tracking](url)~~
 - ~~[Deadlines and Milestones](url)~~
 - ~~[Agile Methodology](url)~~
