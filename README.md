@@ -68,7 +68,7 @@
 - [Acceptance Email](https://github.com/admin-narralabs/wiki/blob/main/acceptance-email) [TEMPLATE]
 - [Contract Email](https://github.com/admin-narralabs/wiki/blob/main/contract-email.md) [TEMPLATE]
 - [Coding Assessment Email](https://github.com/admin-narralabs/wiki/blob/main/coding-assessment-email.md) [TEMPLATE]
-- ~~[Working Hours](url)~~
+- [Working Hours](https://github.com/admin-narralabs/wiki/blob/main/working-hours)
 - ~~[Leave Policy](url)~~
 - ~~[Benefits](url)~~
 - ~~[Events and Activities](url)~~
