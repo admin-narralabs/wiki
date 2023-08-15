@@ -9,7 +9,7 @@
 ## **About Us**
 
 - ~~[Company Overview](url)~~
-- ~~[Vision & Mission](url)~~
+- [Vision & Mission](https://github.com/admin-narralabs/wiki/blob/main/vision-and-mission.md)
 - ~~[Team](url)~~
 - ~~[Contact Information](url)~~
 
