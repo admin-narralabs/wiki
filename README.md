@@ -52,6 +52,7 @@
 
 ## **Onboarding**
 
+- ~~[New Client]()~~
 - ~~[New Employee Guide](url)~~
 - ~~[Setup Instructions](url)~~
 - ~~[Access Rights](url)~~
