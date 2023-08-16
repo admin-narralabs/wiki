@@ -52,7 +52,7 @@
 
 ## **Onboarding**
 
-- ~~[New Client]()~~
+- [New Client](https://github.com/admin-narralabs/wiki/blob/main/new-client.md)
 - ~~[New Employee Guide](url)~~
 - ~~[Setup Instructions](url)~~
 - ~~[Access Rights](url)~~
