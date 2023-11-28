@@ -8,7 +8,7 @@ Kindly consider this before proceeding further.
 
 To move forward with your application, we would like to invite you to complete a take-home challenge. This challenge will allow us to better evaluate your skills and determine if you would be a good fit for our team.
 
-Attached to this email is our take-home challenge. You have 7 days to submit your solution.
+Attached to this email is our take-home challenge. Submit your solutions as soon as you can.
 Kindly follow the instructions carefully in the README file. 
 
 Happy Coding!
